@@ -52,8 +52,8 @@ URL = "project"
 name = "Project"
 weight = 2
 [[menu.main]]
-URL = "service"
-name = "Service"
+URL = "artisans"
+name = "artisans"
 weight = 3
 [[menu.main]]
 URL = "blog"
